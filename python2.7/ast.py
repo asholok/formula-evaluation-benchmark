@@ -20,7 +20,7 @@ functions = {
     SUBSTRACT   : lambda args: args[0] - args[1],
     MULTIPLY    : lambda args: args[0] * args[1],
     DEVIDE      : lambda args: args[0] / args[1],
-    SUM         : lambda args: sum(args)
+    SUM         : list_sum
 
 }
 

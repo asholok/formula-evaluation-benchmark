@@ -25,3 +25,5 @@ Here is the result for Macbook Pro 2013:
 5. Perl 6 (Rakudo Moar VM) - 110 sec
 6. Perl 6 (Rakudo JVM) - 160 sec
 7. Perl 6 (Rakudo Parrot) - ~810 sec
+
+
